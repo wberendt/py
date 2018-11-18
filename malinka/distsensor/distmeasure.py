@@ -77,7 +77,7 @@ if __name__ == '__main__':
         while True:
             dist = distance()
             turn_leds(dist)
-            print "distance = {0:6.2f}".format(dist)
+            # print "distance = {0:6.2f}".format(dist)
             time.sleep(PROBE_TIME)
 
     except KeyboardInterrupt:
