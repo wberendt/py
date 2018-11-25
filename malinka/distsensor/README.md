@@ -9,3 +9,6 @@ The Red LED starts to light if the distance is less than 5cm.
 
 ## Wiring diagram
 ![Wiring diagram](distance_sensor_bb.png)
+
+## Simple prototype
+![Simple prototype](foto.jpg)
